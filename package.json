@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "react-hook-form": "^7.51.1",
+    "uni": "^0.0.6"
+  },
+  "devDependencies": {
+    "bcrypt": "^5.1.1"
+  }
+}
